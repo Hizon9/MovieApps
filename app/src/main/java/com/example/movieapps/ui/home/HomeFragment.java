@@ -17,6 +17,7 @@ import com.example.movieapps.R;
 public class HomeFragment extends Fragment {
 
     private HomeViewModel homeViewModel;
+    TextView data;
 
     public View onCreateView(@NonNull LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
