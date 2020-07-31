@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">MovieApps</string>
-    <string name="title_movies">Dashboard</string>
-    <string name="title_series">Dashboard</string>
+    <string name="title_movies">Movies</string>
+    <string name="title_series">Series</string>
 </resources>
